@@ -4,7 +4,7 @@
 which will translate English Language into Banana Language in Seconds.
 - This app is made by absolute beginear.
 - Try it once and also share with your friends
-- project link : 
+- project link : https://jayuhandevanilajs.netlify.app/
 
 # Language Used
 
